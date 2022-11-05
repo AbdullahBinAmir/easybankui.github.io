@@ -1,2 +1,1 @@
-# easybankui.github.io
-this is front end UI using HTML and CSS.
+Welcome to My UI Project as EasyBank Using HTML and CSS, I use Flexbox , Grid and Media Queries in it.
